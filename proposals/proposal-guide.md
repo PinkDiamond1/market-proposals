@@ -17,6 +17,9 @@ The market description should clearly outline the market you are intending to pr
 
 You may want to reference the current markets on the testnet and explain why this one adds value / is sufficiently different to what else exists. If you simply want to improve a market by proposing an adjustment to a parameter, the settlement asset, data source (etc.) you can propose an amendment to that market (not implemented yet) rather than creating a new market. This is likely to be valued by the governance community, rather than proposing a new market that may fragment liquidity.
 
+## Guide to Names and Tags
+The market's name, code and metadata must be sufficient for people to know all they need to in order to understand the market, both in order to know what they're trading but also so the governance community can ascertain whether the data source will appropriately settle the market.
+
 # Assets
 
 _Guide to specificing settlement asset_
